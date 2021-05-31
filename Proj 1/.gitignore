@@ -1,0 +1,6 @@
+*.o
+*.zip
+*.doc
+.vscode
+*.xz
+*.tar
